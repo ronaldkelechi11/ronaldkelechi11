@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ronald Kelechi
+# <h1 align="center">Hi 👋, I'm Ronald Kelechi</h1>
 <h3 align="center">A passionate Mobile Application developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **QuiCK, CS Chat, We-Hub.**
