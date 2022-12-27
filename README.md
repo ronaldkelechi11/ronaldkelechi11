@@ -1,13 +1,13 @@
 # <h1 align="center">Hi 👋, I'm Ronald Kelechi</h1>
 <h3 align="center">A passionate Mobile Application developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **QuiCK, CS Chat, We-Hub.**
+- 🔭 I’m currently working on **a lot of things 😁.**
 
-- 🌱 I’m currently learning **Swift UI, Vanilla Js**
+- 🌱 I’m currently learning **Swift UI, BlockChain**
 
 - 👯 I’m looking to collaborate on **Mobile Applications(Native or Hybrid)**
 
-- 🤝 I’m looking for help with **Back-end Web Development**
+- 🤝 I’m looking for help with **IOS Application development**
 
 - 💬 Ask me about **Java, Python, JavaScript ,Flutter**
 
